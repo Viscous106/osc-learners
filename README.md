@@ -53,3 +53,8 @@ Need help with Git commands or fixing your Pull Request?
 ---
 
 *Made with passion by the Open Source Club maintainers & awesome student contributors.*
+
+Participants:- 
+
+1. Name : - Yash Virulkar
+   Role : Took todays session in uni 1
