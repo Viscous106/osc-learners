@@ -52,4 +52,6 @@ Need help with Git commands or fixing your Pull Request?
 
 ---
 
-*Made with passion by the Open Source Club maintainers & awesome student contributors.*
+*Made with passion by the Open Source Club maintainers & awesome student contributors.
+Anant Arora - 4 year Vocal and Instrumental diploma in Hindustani Sangeet Music 🎶
+Praful Jain - kuxh nhi
